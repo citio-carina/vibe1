@@ -1,4 +1,4 @@
-# Robot Explorer · 机械臂探索器
+# 机器臂实验计划1
 
 小黄黄的网页版 3D 机械臂交互演示。React、TypeScript、Three.js、Vite；无需后端、账号、密钥或外部模型请求。
 

@@ -110,12 +110,12 @@ export default function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <a className="brand" href="./" aria-label="机械臂探索器首页">
+        <a className="brand" href="./" aria-label="机器臂实验计划1首页">
           <span className="brand-mark">
             <Move3D size={23} />
           </span>
           <span>
-            Robot<span className="brand-light"> Explorer</span>
+            机器臂<span className="brand-light">实验计划1</span>
           </span>
           <span className="version">LAB</span>
         </a>
@@ -143,9 +143,7 @@ export default function App() {
             <div className="breadcrumb">
               工作台 <ChevronRight size={12} /> 机械臂实验室
             </div>
-            <h1>
-              探索机械臂的每一种可能<span className="title-dot">.</span>
-            </h1>
+            <h1>机器臂实验计划1</h1>
             <p>从一个关节开始，让空间中的运动直观可见。</p>
           </div>
           <div className="heading-meta">
@@ -211,7 +209,7 @@ export default function App() {
               <div className="scene-caption">
                 <span className="caption-rule" />
                 <div>
-                  <span className="caption-small">ROBOT EXPLORER</span>
+                  <span className="caption-small">机器臂实验计划1</span>
                   <strong>看见结构，感受运动。</strong>
                 </div>
               </div>
